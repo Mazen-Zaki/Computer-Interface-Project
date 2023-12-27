@@ -5,6 +5,9 @@ This repository contains firmware for interfacing a PC with an STM32F401RC micro
 ![WhatsApp Image 2023-12-23 at 22 30 33_006aba9b](https://github.com/Mazen-Zaki/Smart-Home-Project/assets/76655984/5f9fd906-3d7e-41f8-af78-f044140ee2b5)
 
 
+![WhatsApp Image 2023-12-24 at 01 27 49_5eab4e88](https://github.com/Mazen-Zaki/Smart-Home-Project/assets/76655984/e46a977a-86e6-4832-a980-2fbf6a43a720)
+
+
 # Features:
 UART Communication: Establishes bidirectional communication between the PC and the microcontroller via UART.
 Sensors Integration: Includes functionalities for LM35 temperature sensor, LDR sensor, and gas sensor (connected to GPIO).
