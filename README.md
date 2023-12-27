@@ -2,6 +2,9 @@
 Project Description
 This repository contains firmware for interfacing a PC with an STM32F401RC microcontroller through UART using TTL communication. The project is structured with drivers such as RCC, GPIO, ADC, NVIC, SYSTIC, and UART in the MCAL layer. Within the MCAL layer, functionalities for LCD, LDR, and LM35 temperature sensor are integrated.
 
+![WhatsApp Image 2023-12-23 at 22 30 33_006aba9b](https://github.com/Mazen-Zaki/Smart-Home-Project/assets/76655984/5f9fd906-3d7e-41f8-af78-f044140ee2b5)
+
+
 # Features:
 UART Communication: Establishes bidirectional communication between the PC and the microcontroller via UART.
 Sensors Integration: Includes functionalities for LM35 temperature sensor, LDR sensor, and gas sensor (connected to GPIO).
@@ -22,4 +25,5 @@ How to Use:
 To utilize this codebase, set up the STM32F401RC microcontroller, configure GPIO pins, and ensure proper connections for sensors and actuators. Customize the main function as per your specific project requirements, integrating additional functionalities if needed.
 
 Feel free to explore and adapt this codebase for your embedded system projects!
+
  
