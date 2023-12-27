@@ -1,0 +1,6 @@
+../Src/MCAL/UART/UART_prg.c:46:6:UART_vInit	8
+../Src/MCAL/UART/UART_prg.c:175:6:UART_vTransmite	14
+../Src/MCAL/UART/UART_prg.c:233:4:UART_u8Recive	20
+../Src/MCAL/UART/UART_prg.c:346:6:USART1_IRQHandler	1
+../Src/MCAL/UART/UART_prg.c:352:6:USART2_IRQHandler	1
+../Src/MCAL/UART/UART_prg.c:358:6:USART6_IRQHandler	1

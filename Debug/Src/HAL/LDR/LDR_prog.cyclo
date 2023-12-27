@@ -1,0 +1,2 @@
+../Src/HAL/LDR/LDR_prog.c:18:6:LDR_vidInit	1
+../Src/HAL/LDR/LDR_prog.c:23:5:LDR_u32_Get_value	1

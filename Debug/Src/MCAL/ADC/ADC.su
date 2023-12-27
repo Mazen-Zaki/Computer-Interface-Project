@@ -1,0 +1,2 @@
+../Src/MCAL/ADC/ADC.c:19:6:ADC_voidInit	4	static
+../Src/MCAL/ADC/ADC.c:40:5:ADC_u16Read	16	static

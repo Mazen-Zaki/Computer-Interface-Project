@@ -1,0 +1,2 @@
+../Src/HAL/LM35/LM35_program.c:11:6:LM35_vidInit	1
+../Src/HAL/LM35/LM35_program.c:16:5:LM35_u16_Get_Temp	1

@@ -1,0 +1,8 @@
+../Src/HAL/LCD/LCD_prg.c:17:13:LCD_vidSendEnable	8	static
+../Src/HAL/LCD/LCD_prg.c:32:6:LCD_VidInit	8	static
+../Src/HAL/LCD/LCD_prg.c:92:6:LCD_enuSendCharacter	16	static
+../Src/HAL/LCD/LCD_prg.c:164:21:LCD_enuSendInstruction	24	static
+../Src/HAL/LCD/LCD_prg.c:235:21:LCD_enuGoTo	24	static
+../Src/HAL/LCD/LCD_prg.c:260:21:LCD_enuSendString	24	static
+../Src/HAL/LCD/LCD_prg.c:280:21:LCD_enuSendCustomCharacter	24	static
+../Src/HAL/LCD/LCD_prg.c:309:6:LCD_enuSendNumber	40	static

@@ -1,0 +1,4 @@
+../Src/MCAL/NVIC/NVIC_program.c:22:6:MNVIC_vInterrupt_SetEnable	24	static
+../Src/MCAL/NVIC/NVIC_program.c:35:7:MNVIC_vInterrupt_ClearEnable	24	static
+../Src/MCAL/NVIC/NVIC_program.c:55:7:MNVIC_SetGroupMode	24	static
+../Src/MCAL/NVIC/NVIC_program.c:68:7:MNVIC_SetPriority	16	static
