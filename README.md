@@ -2,7 +2,7 @@
 Project Description
 This repository contains firmware for interfacing a PC with an STM32F401RC microcontroller through UART using TTL communication. The project is structured with drivers such as RCC, GPIO, ADC, NVIC, SYSTIC, and UART in the MCAL layer. Within the MCAL layer, functionalities for LCD, LDR, and LM35 temperature sensor are integrated.
 
-Features:
+# Features:
 UART Communication: Establishes bidirectional communication between the PC and the microcontroller via UART.
 Sensors Integration: Includes functionalities for LM35 temperature sensor, LDR sensor, and gas sensor (connected to GPIO).
 Actuators Control: Controls various actuators such as a fan and motors based on sensor readings or user commands received through UART.
